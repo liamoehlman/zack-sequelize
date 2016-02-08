@@ -1,0 +1,23 @@
+{
+  "name": "zack-sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liamoehlman/zack-sequelize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liamoehlman/zack-sequelize/issues"
+  },
+  "homepage": "https://github.com/liamoehlman/zack-sequelize#readme",
+  "dependencies": {
+    "abbott": "^1.1.3",
+    "zack": "^1.0.1"
+  }
+}
