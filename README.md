@@ -1,4 +1,5 @@
 # zack-sequelize
+
 returns a configured instance of [zack](https://www.npmjs.com/package/zack) for use with sequelize
 
 ```javascript
